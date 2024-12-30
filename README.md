@@ -8,4 +8,4 @@ This is a Streamlit application for sentiment analysis. It uses a Random Forest 
 3. Run the app using `streamlit run app.py`.
 
 ## Online Access
-The app is hosted on Streamlit Cloud. Access it [here]([https://share.streamlit.io/your-username/project-name/main/app.py](https://sentimental-analysis-ziadelshayeb.streamlit.app/)).
+The app is hosted on Streamlit Cloud. Access it [here](https://sentimental-analysis-ziadelshayeb.streamlit.app/).
