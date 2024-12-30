@@ -1,6 +1,8 @@
 import streamlit as st
 import joblib
 from utils import predict_sentiment
+import nltk
+nltk.download('punkt')
 
 model = joblib.load("rf_model.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
