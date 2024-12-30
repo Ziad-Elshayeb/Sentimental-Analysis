@@ -1,6 +1,6 @@
 # Sentiment Analysis Streamlit App
 
-This is a Streamlit application for sentiment analysis. It uses a Random Forest model and a vectorizer to classify text as Positive, Neutral, or Negative.
+This is a Streamlit application for sentiment analysis. It uses a Random Forest model and a vectorizer to classify text as Positive or Negative.
 
 ## How to Run
 1. Clone the repository.
