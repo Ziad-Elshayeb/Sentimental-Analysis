@@ -1,6 +1,6 @@
 import streamlit as st
 import joblib
-from utils_1 import predict_sentiment
+from utils import predict_sentiment
 
 model = joblib.load("svm_model.pkl")
 vectorizer = joblib.load("tfidf_vectorizer.pkl")
