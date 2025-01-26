@@ -7,3 +7,4 @@ emoji
 joblib
 wordcloud
 streamlit
+xgboost
