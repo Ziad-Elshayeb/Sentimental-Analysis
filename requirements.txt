@@ -8,3 +8,5 @@ joblib
 wordcloud
 streamlit
 xgboost
+re
+collections
